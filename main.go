@@ -1,12 +1,11 @@
 package main
 
 import (
+	"btxer/btcrpc"
 	"flag"
 	"fmt"
 	"os"
 	"time"
-
-	"github.com/ekalinin/btxer/btcrpc"
 )
 
 var (
